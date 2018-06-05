@@ -1,5 +1,6 @@
 # Uses python3
-
+# The basic model for computing the max product of two numbers in an array.
+# Use for the stress test of faster algorithm
 
 
 def MaxProduct(numbers):
